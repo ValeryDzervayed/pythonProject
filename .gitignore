@@ -1,0 +1,8 @@
+mymodule.py
+script1.py
+dog.py
+
+__pycache__/
+py3e_source/
+venv/
+.idea/
